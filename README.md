@@ -1,2 +1,2 @@
-# saminario_2018
+# seminario_2018
 Usefull data for opensource seminari
